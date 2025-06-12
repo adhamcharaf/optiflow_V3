@@ -1,0 +1,6 @@
+Copyright © 2025 Adham Charafeddine.  
+Tous droits réservés.
+
+Aucune partie de ce logiciel ne peut être copiée, modifiée, distribuée
+ou exploitée sans autorisation écrite préalable d’Adham Charafeddine.
+EOF
